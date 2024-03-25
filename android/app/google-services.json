@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981772043022",
+    "project_id": "cimoc-1f147",
+    "storage_bucket": "cimoc-1f147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981772043022:android:cfdcd3b35636eb06db4d5f",
+        "android_client_info": {
+          "package_name": "vn.newwave.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbKLEQYzM5ld9y0C5nyRaogx089av2Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
